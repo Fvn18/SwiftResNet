@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.DS_Store
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+logs/
+wandb/
